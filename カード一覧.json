@@ -313,518 +313,776 @@
     },
     {
         "名前:": "エレブー",
+        "タイプ": "雷",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/エレブー.jpg"
     },
     {
         "名前:": "エンニュート",
+        "タイプ": "炎",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/エンニュート.jpg"
     },
     {
         "名前:": "エンニュート2",
+        "タイプ": "炎",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/エンニュート2.jpg"
     },
     {
-        "名前:": "オコリザル2",
-        "カード": "https://ptcgp-storage.pages.dev/♢1/オコリザル2.jpg"
+        "名前:": "オコリザル",
+        "タイプ": "闘",
+        "レア度": "♢1",
+        "カード": "https://ptcgp-storage.pages.dev/♢1/オコリザル.jpg"
     },
     {
         "名前:": "オニスズメ",
+        "タイプ": "無色",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/オニスズメ.jpg"
     },
     {
         "名前:": "オニドリル",
+        "タイプ": "無色",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/オニドリル.jpg"
     },
     {
         "名前:": "カムカメ",
+        "タイプ": "水",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/カムカメ.jpg"
     },
     {
         "名前:": "カモネギ",
+        "タイプ": "無色",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/カモネギ.jpg"
     },
     {
         "名前:": "カラカラ",
+        "タイプ": "闘",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/カラカラ.jpg"
     },
     {
         "名前:": "ガーディ",
+        "タイプ": "炎",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ガーディ.jpg"
     },
     {
         "名前:": "キャタピー",
+        "タイプ": "草",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/キャタピー.jpg"
     },
     {
         "名前:": "クイタラン",
+        "タイプ": "炎",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/クイタラン.jpg"
     },
     {
         "名前:": "クチート",
+        "タイプ": "鋼",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/クチート.jpg"
     },
     {
         "名前:": "クラブ",
+        "タイプ": "水",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/クラブ.jpg"
     },
     {
         "名前:": "ケイコウオ",
+        "タイプ": "水",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ケイコウオ.jpg"
     },
     {
         "名前:": "ケロマツ",
+        "タイプ": "水",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ケロマツ.jpg"
     },
     {
         "名前:": "ケーシィ",
+        "タイプ": "超",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ケーシィ.jpg"
     },
     {
         "名前:": "コアルヒー",
+        "タイプ": "水",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/コアルヒー.jpg"
     },
     {
         "名前:": "コイキング",
+        "タイプ": "水",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/コイキング.jpg"
     },
     {
         "名前:": "コイキング2",
+        "タイプ": "水",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/コイキング2.jpg"
     },
     {
         "名前:": "コイル",
+        "タイプ": "雷",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/コイル.jpg"
     },
     {
         "名前:": "コクーン",
+        "タイプ": "草",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/コクーン.jpg"
     },
     {
         "名前:": "ココロモリ",
+        "タイプ": "超",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ココロモリ.jpg"
     },
     {
         "名前:": "コジョフー",
+        "タイプ": "闘",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/コジョフー.jpg"
     },
     {
         "名前:": "コダック",
+        "タイプ": "水",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/コダック.jpg"
     },
     {
         "名前:": "コマタナ",
+        "タイプ": "鋼",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/コマタナ.jpg"
     },
     {
         "名前:": "コラッタ",
+        "タイプ": "無色",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/コラッタ.jpg"
     },
     {
         "名前:": "コロモリ",
+        "タイプ": "超",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/コロモリ.jpg"
     },
     {
         "名前:": "コンパン",
+        "タイプ": "草",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/コンパン.jpg"
     },
     {
         "名前:": "ゴビット",
+        "タイプ": "超",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ゴビット.jpg"
     },
     {
         "名前:": "ゴーゴート",
+        "タイプ": "草",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ゴーゴート.jpg"
     },
     {
         "名前:": "ゴース",
+        "タイプ": "超",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ゴース.jpg"
     },
     {
         "名前:": "サイホーン",
+        "タイプ": "闘",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/サイホーン.jpg"
     },
     {
         "名前:": "サワムラー",
+        "タイプ": "闘",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/サワムラー.jpg"
     },
     {
         "名前:": "サンド",
+        "タイプ": "闘",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/サンド.jpg"
     },
     {
         "名前:": "シェルダー",
+        "タイプ": "水",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/シェルダー.jpg"
     },
     {
         "名前:": "シビシラス",
+        "タイプ": "雷",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/シビシラス.jpg"
     },
     {
         "名前:": "シママ",
+        "タイプ": "雷",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/シママ.jpg"
     },
     {
         "名前:": "ストライク",
+        "タイプ": "草",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ストライク.jpg"
     },
     {
         "名前:": "スピンロトム",
+        "タイプ": "無色",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/スピンロトム.jpg"
     },
     {
         "名前:": "スリープ",
+        "タイプ": "超",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/スリープ.jpg"
     },
     {
         "名前:": "ズバット",
+        "タイプ": "悪",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ズバット.jpg"
     },
     {
         "名前:": "ゼニガメ",
+        "タイプ": "水",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ゼニガメ.jpg"
     },
     {
         "名前:": "タタッコ",
+        "タイプ": "闘",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/タタッコ.jpg"
     },
     {
         "名前:": "タッツー",
+        "タイプ": "水",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/タッツー.jpg"
     },
     {
         "名前:": "タマタマ",
+        "タイプ": "草",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/タマタマ.jpg"
     },
     {
         "名前:": "タマタマ2",
+        "タイプ": "草",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/タマタマ2.jpg"
     },
     {
         "名前:": "チュリネ",
+        "タイプ": "草",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/チュリネ.jpg"
     },
     {
         "名前:": "チョロネコ",
+        "タイプ": "悪",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/チョロネコ.jpg"
     },
     {
         "名前:": "チラーミィ",
+        "タイプ": "無色",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/チラーミィ.jpg"
     },
     {
         "名前:": "ツタージャ",
+        "タイプ": "草",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ツタージャ.jpg"
     },
     {
         "名前:": "ディグダ",
+        "タイプ": "闘",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ディグダ.jpg"
     },
     {
         "名前:": "デデンネ",
+        "タイプ": "雷",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/デデンネ.jpg"
     },
     {
         "名前:": "トサキント",
+        "タイプ": "水",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/トサキント.jpg"
     },
     {
         "名前:": "トランセル",
+        "タイプ": "草",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/トランセル.jpg"
     },
     {
         "名前:": "ドガース",
+        "タイプ": "悪",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ドガース.jpg"
     },
     {
         "名前:": "ドガース2",
+        "タイプ": "悪",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ドガース2.jpg"
     },
     {
         "名前:": "ドードー",
+        "タイプ": "無色",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ドードー.jpg"
     },
     {
         "名前:": "ドーミラー",
+        "タイプ": "鋼",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ドーミラー.jpg"
     },
     {
         "名前:": "ナゾノクサ",
+        "タイプ": "草",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ナゾノクサ.jpg"
     },
     {
         "名前:": "ナマコブシ",
+        "タイプ": "水",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ナマコブシ.jpg"
     },
     {
         "名前:": "ニドラン♀",
+        "タイプ": "悪",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ニドラン♀.jpg"
     },
     {
         "名前:": "ニドラン♂",
+        "タイプ": "悪",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ニドラン♂.jpg"
     },
     {
         "名前:": "ニャルマー",
+        "タイプ": "無色",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ニャルマー.jpg"
     },
     {
         "名前:": "ニャース",
+        "タイプ": "無色",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ニャース.jpg"
     },
     {
         "名前:": "ニョロモ",
+        "タイプ": "水",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ニョロモ.jpg"
     },
     {
         "名前:": "ネマシュ",
+        "タイプ": "草",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ネマシュ.jpg"
     },
     {
         "名前:": "バイウールー",
+        "タイプ": "無色",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/バイウールー.jpg"
     },
     {
         "名前:": "バチュル",
+        "タイプ": "雷",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/バチュル.jpg"
     },
     {
         "名前:": "パウワウ",
+        "タイプ": "水",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/パウワウ.jpg"
     },
     {
         "名前:": "パラス",
+        "タイプ": "草",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/パラス.jpg"
     },
     {
         "名前:": "ヒトカゲ",
+        "タイプ": "炎",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ヒトカゲ.jpg"
     },
     {
         "名前:": "ヒトデマン",
+        "タイプ": "水",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ヒトデマン.jpg"
     },
     {
         "名前:": "ビッパ",
+        "タイプ": "無色",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ビッパ.jpg"
     },
     {
         "名前:": "ビリリダマ",
+        "タイプ": "雷",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ビリリダマ.jpg"
     },
     {
         "名前:": "ビーダル",
+        "タイプ": "無色",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ビーダル.jpg"
     },
     {
         "名前:": "ビードル",
+        "タイプ": "草",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ビードル.jpg"
     },
     {
         "名前:": "ピカチュウ",
+        "タイプ": "雷",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ピカチュウ.jpg"
     },
     {
         "名前:": "ピカチュウ2",
+        "タイプ": "雷",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ピカチュウ2.jpg"
     },
     {
         "名前:": "ピジョン",
+        "タイプ": "無色",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ピジョン.jpg"
     },
     {
         "名前:": "ピジョン2",
+        "タイプ": "無色",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ピジョン2.jpg"
     },
     {
         "名前:": "ピッピ",
+        "タイプ": "超",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ピッピ.jpg"
     },
     {
         "名前:": "フカマル",
+        "タイプ": "ドラゴン",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/フカマル.jpg"
     },
     {
         "名前:": "フシギダネ",
+        "タイプ": "草",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/フシギダネ.jpg"
     },
     {
         "名前:": "フシデ",
+        "タイプ": "悪",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/フシデ.jpg"
     },
     {
         "名前:": "フラべべ",
+        "タイプ": "超",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/フラべべ.jpg"
     },
     {
         "名前:": "フラエッテ",
+        "タイプ": "超",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/フラエッテ.jpg"
     },
     {
         "名前:": "ブーバー",
+        "タイプ": "炎",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ブーバー.jpg"
     },
     {
         "名前:": "プクリン",
+        "タイプ": "無色",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/プクリン.jpg"
     },
     {
         "名前:": "プリン",
+        "タイプ": "無色",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/プリン.jpg"
     },
     {
         "名前:": "ベトベター",
+        "タイプ": "悪",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ベトベター.jpg"
     },
     {
         "名前:": "ベロリンガ",
+        "タイプ": "無色",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ベロリンガ.jpg"
     },
     {
         "名前:": "ペラップ",
+        "タイプ": "無色",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ペラップ.jpg"
     },
     {
         "名前:": "ペラップ2",
+        "タイプ": "無色",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ペラップ2.jpg"
     },
     {
         "名前:": "ペロッパフ",
+        "タイプ": "超",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ペロッパフ.jpg"
     },
     {
         "名前:": "ペロリーム",
+        "タイプ": "超",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ペロリーム.jpg"
     },
     {
         "名前:": "ホイーガ",
+        "タイプ": "悪",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ホイーガ.jpg"
     },
     {
         "名前:": "ポッポ",
+        "タイプ": "無色",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ポッポ.jpg"
     },
     {
         "名前:": "ポッポ2",
+        "タイプ": "無色",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ポッポ2.jpg"
     },
     {
         "名前:": "ポニータ",
+        "タイプ": "炎",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ポニータ.jpg"
     },
     {
         "名前:": "ポニータ2",
+        "タイプ": "炎",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ポニータ2.jpg"
     },
     {
         "名前:": "ポリゴン2",
+        "タイプ": "無色",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ポリゴン2.jpg"
     },
     {
         "名前:": "マダツボミ",
+        "タイプ": "草",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/マダツボミ.jpg"
     },
     {
         "名前:": "マンキー",
+        "タイプ": "闘",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/マンキー.jpg"
     },
     {
         "名前:": "マンキー2",
+        "タイプ": "闘",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/マンキー2.jpg"
     },
     {
         "名前:": "ミニリュウ",
+        "タイプ": "ドラゴン",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ミニリュウ.jpg"
     },
     {
         "名前:": "ミノマダム",
+        "タイプ": "鋼",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ミノマダム.jpg"
     },
     {
         "名前:": "ミミロップ",
+        "タイプ": "無色",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ミミロップ.jpg"
     },
     {
         "名前:": "ミミロル",
+        "タイプ": "無色",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ミミロル.jpg"
     },
     {
         "名前:": "ムクバード",
+        "タイプ": "無色",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ムクバード.jpg"
     },
     {
         "名前:": "ムックル",
+        "タイプ": "無色",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ムックル.jpg"
     },
     {
         "名前:": "メェークル",
+        "タイプ": "草",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/メェークル.jpg"
     },
     {
         "名前:": "メノクラゲ",
+        "タイプ": "水",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/メノクラゲ.jpg"
     },
     {
         "名前:": "メラルバ",
+        "タイプ": "炎",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/メラルバ.jpg"
     },
     {
         "名前:": "メルタン",
+        "タイプ": "鋼",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/メルタン.jpg"
     },
     {
         "名前:": "モンジャラ",
+        "タイプ": "草",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/モンジャラ.jpg"
     },
     {
         "名前:": "モンメン",
+        "タイプ": "草",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/モンメン.jpg"
     },
     {
         "名前:": "ヤクデ",
+        "タイプ": "炎",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ヤクデ.jpg"
     },
     {
         "名前:": "ヤトウモリ",
+        "タイプ": "炎",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ヤトウモリ.jpg"
     },
     {
         "名前:": "ヤトウモリ2",
+        "タイプ": "炎",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ヤトウモリ2.jpg"
     },
     {
         "名前:": "ヤドン",
+        "タイプ": "超",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ヤドン.jpg"
     },
     {
         "名前:": "ユキハミ",
+        "タイプ": "水",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ユキハミ.jpg"
     },
     {
         "名前:": "ラッタ",
+        "タイプ": "無色",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ラッタ.jpg"
     },
     {
         "名前:": "ラルトス",
+        "タイプ": "超",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ラルトス.jpg"
     },
     {
         "名前:": "リグレー",
+        "タイプ": "超",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/リグレー.jpg"
     },
     {
         "名前:": "ルージュラ",
+        "タイプ": "超",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ルージュラ.jpg"
     },
     {
         "名前:": "レパルダス",
+        "タイプ": "悪",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/レパルダス.jpg"
     },
     {
         "名前:": "ロコン",
+        "タイプ": "炎",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ロコン.jpg"
     },
     {
         "名前:": "ワンリキー",
+        "タイプ": "闘",
+        "レア度": "♢1",
         "カード": "https://ptcgp-storage.pages.dev/♢1/ワンリキー.jpg"
     }
 ]
